@@ -15,7 +15,7 @@ To use DNSServer.py library, you should:
 
 4. Call `processNextRequest()` repeatly to process requests.
 
-## Methhod reference
+## Method reference
 
 ### start(dns_port, domain_name, resolvedIP)
 - Start the server at specified port.
