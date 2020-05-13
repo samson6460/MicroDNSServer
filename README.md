@@ -36,6 +36,6 @@ To use DNSServer.py library, you should:
 
 ### errorReplyCode
 - You can set the Rcode by change this attribute.
-- From DNSServer library import `DNSReplyCode` class and you get can all Rcode.
+- From DNSServer library import `DNSReplyCode` class and you can get all Rcode.
 
 
